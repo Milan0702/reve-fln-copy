@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FLN</string>
+    <string name="connected">Connected</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="begin_learning">We will learn 5 numerical today.</string>
+    <string name="expecting_start">Insert \'START\' block to continue…</string>
+    <string name="your_answer_is">Your answer is</string>
+</resources>
